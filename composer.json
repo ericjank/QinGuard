@@ -2,7 +2,7 @@
     "name": "ericjank/QinGuard",
     "description": "Web Page Tamper-resistant Mechanism Based on Swoole and Inotify",
     "type": "library",
-    "keywords": ["swoole","inotify"],
+    "keywords": ["swoole","inotify","tamper-resistant"],
     "license": "Apache2",
     "authors": [
         {
@@ -11,7 +11,10 @@
         }
     ],
     "require": {
-        "php": ">=7.0"
+        "php": ">=7.0",
+        "ext-swoole": ">=4.0",
+        "ext-inotify": ">=1.0",
+        "ext-redis": ">=1.0"
     },
     "minimum-stability": "dev"
 }

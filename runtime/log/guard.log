@@ -1,0 +1,736 @@
+[ 2020-01-23T01:03:00+08:00 ]Guard server started
+[ 2020-01-23T01:03:00+08:00 ] add dir:/var/www/html/test
+[ 2020-01-23T01:03:00+08:00 ] add dir:/var/www/html/test/eg
+[ 2020-01-23T01:03:00+08:00 ] add dir:/var/www/html/test/eg/ff
+[ 2020-01-23T01:03:00+08:00 ] add dir:/var/www/html/test/eg/ff/eg
+[ 2020-01-23T01:03:00+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T01:03:00+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+[ 2020-01-23T01:03:00+08:00 ] add dir:/var/www/html/test/llf
+[ 2020-01-23T01:03:00+08:00 ]: worker started
+[ 2020-01-23T01:04:14+08:00 ]Guard server started
+[ 2020-01-23T01:04:14+08:00 ] add dir:/var/www/html/test
+[ 2020-01-23T01:04:14+08:00 ] add dir:/var/www/html/test/eg
+[ 2020-01-23T01:04:14+08:00 ] add dir:/var/www/html/test/eg/ff
+[ 2020-01-23T01:04:14+08:00 ] add dir:/var/www/html/test/eg/ff/eg
+[ 2020-01-23T01:04:14+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T01:04:14+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+[ 2020-01-23T01:04:14+08:00 ] add dir:/var/www/html/test/llf
+[ 2020-01-23T01:04:14+08:00 ]: worker started
+[2020-01-22 17:04:15 *3121.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+
+Warning: Swoole\Event::swoole_event_del(): reactor is not ready, cannot call swoole_event_del in /var/www/html/service/Watcher.php on line 471
+[ 2020-01-23T01:04:54+08:00 ]Guard server started
+[ 2020-01-23T01:04:54+08:00 ] add dir:/var/www/html/test
+[ 2020-01-23T01:04:54+08:00 ] add dir:/var/www/html/test/eg
+[ 2020-01-23T01:04:54+08:00 ] add dir:/var/www/html/test/eg/ff
+[ 2020-01-23T01:04:54+08:00 ] add dir:/var/www/html/test/eg/ff/eg
+[ 2020-01-23T01:04:54+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T01:04:54+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+[ 2020-01-23T01:04:54+08:00 ] add dir:/var/www/html/test/llf
+[ 2020-01-23T01:04:54+08:00 ]: worker started
+[2020-01-22 17:04:56 *3129.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+
+Warning: Swoole\Event::swoole_event_del(): reactor is not ready, cannot call swoole_event_del in /var/www/html/service/Watcher.php on line 471
+[ 2020-01-23T01:05:01+08:00 ]Guard server started
+[ 2020-01-23T01:05:01+08:00 ] add dir:/var/www/html/test
+[ 2020-01-23T01:05:01+08:00 ] add dir:/var/www/html/test/eg
+[ 2020-01-23T01:05:01+08:00 ] add dir:/var/www/html/test/eg/ff
+[ 2020-01-23T01:05:01+08:00 ] add dir:/var/www/html/test/eg/ff/eg
+[ 2020-01-23T01:05:01+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T01:05:01+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+[ 2020-01-23T01:05:01+08:00 ] add dir:/var/www/html/test/llf
+[ 2020-01-23T01:05:01+08:00 ]: worker started
+[2020-01-22 17:05:03 *3137.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+NULL
+
+Warning: Swoole\Event::swoole_event_del(): reactor is not ready, cannot call swoole_event_del in /var/www/html/service/Watcher.php on line 472
+[ 2020-01-23T01:05:27+08:00 ]Guard server started
+[ 2020-01-23T01:05:27+08:00 ] add dir:/var/www/html/test
+[ 2020-01-23T01:05:27+08:00 ] add dir:/var/www/html/test/eg
+[ 2020-01-23T01:05:27+08:00 ] add dir:/var/www/html/test/eg/ff
+[ 2020-01-23T01:05:27+08:00 ] add dir:/var/www/html/test/eg/ff/eg
+[ 2020-01-23T01:05:27+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T01:05:27+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+[ 2020-01-23T01:05:27+08:00 ] add dir:/var/www/html/test/llf
+[ 2020-01-23T01:05:27+08:00 ]: worker started
+[2020-01-22 17:05:28 *3145.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+NULL
+
+Warning: Swoole\Event::swoole_event_del(): reactor is not ready, cannot call swoole_event_del in /var/www/html/service/Watcher.php on line 472
+[ 2020-01-23T01:05:35+08:00 ]Guard server started
+[ 2020-01-23T01:05:36+08:00 ] add dir:/var/www/html/test
+[ 2020-01-23T01:05:36+08:00 ] add dir:/var/www/html/test/eg
+[ 2020-01-23T01:05:36+08:00 ] add dir:/var/www/html/test/eg/ff
+[ 2020-01-23T01:05:36+08:00 ] add dir:/var/www/html/test/eg/ff/eg
+[ 2020-01-23T01:05:36+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T01:05:36+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+[ 2020-01-23T01:05:36+08:00 ] add dir:/var/www/html/test/llf
+[ 2020-01-23T01:05:36+08:00 ]: worker started
+[2020-01-22 17:05:37 *3153.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+string(22) "/eg/ff/eg/hh/vvvv.html"
+[ 2020-01-23T01:06:14+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+NULL
+
+Warning: file_put_contents(/var/www/html/test): failed to open stream: Is a directory in /var/www/html/service/Guard.php on line 56
+string(22) "/eg/ff/eg/hh/asdf.html"
+string(20) "/eg/ff/eg/hh/kk.html"
+string(23) "/eg/ff/eg/hh/ga/kk.html"
+[ 2020-01-23T01:06:14+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+string(23) "/eg/ff/eg/hh/ga/ee.html"
+string(23) "/eg/ff/eg/hh/ga/ff.html"
+[ 2020-01-23T01:06:15+08:00 ] Notice: Make all files at page 1!
+[ 2020-01-23T01:06:15+08:00 ] Notice: Make all files was done!
+
+Warning: file_put_contents(/var/www/html/test): failed to open stream: Is a directory in /var/www/html/service/Guard.php on line 56
+
+Warning: file_put_contents(/var/www/html/test): failed to open stream: Is a directory in /var/www/html/service/Guard.php on line 56
+
+Warning: file_put_contents(/var/www/html/test): failed to open stream: Is a directory in /var/www/html/service/Guard.php on line 56
+
+Warning: file_put_contents(/var/www/html/test): failed to open stream: Is a directory in /var/www/html/service/Guard.php on line 56
+
+Warning: file_put_contents(/var/www/html/test): failed to open stream: Is a directory in /var/www/html/service/Guard.php on line 56
+
+Warning: file_put_contents(/var/www/html/test): failed to open stream: Is a directory in /var/www/html/service/Guard.php on line 56
+
+Warning: file_put_contents(/var/www/html/test): failed to open stream: Is a directory in /var/www/html/service/Guard.php on line 56
+
+Warning: file_put_contents(/var/www/html/test): failed to open stream: Is a directory in /var/www/html/service/Guard.php on line 56
+
+Warning: file_put_contents(/var/www/html/test): failed to open stream: Is a directory in /var/www/html/service/Guard.php on line 56
+[ 2020-01-23T01:07:54+08:00 ] 发送消息通知:  Warning: 文件 /var/www/html/test 无法创建, QinGuard防篡改系统无法自动完成操作, 请登录服务器排查原因, /var/www/html/test, 302
+[ 2020-01-23T01:18:20+08:00 ]Guard server started
+[ 2020-01-23T01:18:20+08:00 ] add dir:/var/www/html/test
+[ 2020-01-23T01:18:20+08:00 ] add dir:/var/www/html/test/eg
+[ 2020-01-23T01:18:20+08:00 ] add dir:/var/www/html/test/eg/ff
+[ 2020-01-23T01:18:20+08:00 ] add dir:/var/www/html/test/eg/ff/eg
+[ 2020-01-23T01:18:20+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T01:18:20+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+[ 2020-01-23T01:18:20+08:00 ] add dir:/var/www/html/test/llf
+[ 2020-01-23T01:18:20+08:00 ]: worker started
+[2020-01-22 17:18:22 *3161.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+$content['p']string(22) "/eg/ff/eg/hh/vvvv.html"
+[ 2020-01-23T01:18:36+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+$content['p']NULL
+
+Warning: file_put_contents(/var/www/html/test): failed to open stream: Is a directory in /var/www/html/service/Guard.php on line 57
+$content['p']string(22) "/eg/ff/eg/hh/asdf.html"
+$content['p']string(20) "/eg/ff/eg/hh/kk.html"
+$content['p']string(23) "/eg/ff/eg/hh/ga/kk.html"
+[ 2020-01-23T01:18:36+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+$content['p']string(23) "/eg/ff/eg/hh/ga/ee.html"
+$content['p']string(23) "/eg/ff/eg/hh/ga/ff.html"
+[ 2020-01-23T01:18:37+08:00 ] Notice: Make all files at page 1!
+[ 2020-01-23T01:18:37+08:00 ] Notice: Make all files was done!
+
+Warning: file_put_contents(/var/www/html/test): failed to open stream: Is a directory in /var/www/html/service/Guard.php on line 57
+
+Warning: file_put_contents(/var/www/html/test): failed to open stream: Is a directory in /var/www/html/service/Guard.php on line 57
+
+Warning: file_put_contents(/var/www/html/test): failed to open stream: Is a directory in /var/www/html/service/Guard.php on line 57
+
+Warning: file_put_contents(/var/www/html/test): failed to open stream: Is a directory in /var/www/html/service/Guard.php on line 57
+
+Warning: file_put_contents(/var/www/html/test): failed to open stream: Is a directory in /var/www/html/service/Guard.php on line 57
+[ 2020-01-23T01:19:36+08:00 ]Guard server started
+
+Warning: file_put_contents(/var/www/html/test): failed to open stream: Is a directory in /var/www/html/service/Guard.php on line 57
+[ 2020-01-23T01:19:36+08:00 ] add dir:/var/www/html/test
+[ 2020-01-23T01:19:36+08:00 ] add dir:/var/www/html/test/eg
+[ 2020-01-23T01:19:36+08:00 ] add dir:/var/www/html/test/eg/ff
+[ 2020-01-23T01:19:36+08:00 ] add dir:/var/www/html/test/eg/ff/eg
+[ 2020-01-23T01:19:36+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T01:19:36+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+[ 2020-01-23T01:19:36+08:00 ] add dir:/var/www/html/test/llf
+[ 2020-01-23T01:19:36+08:00 ]: worker started
+[2020-01-22 17:19:38 *3185.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[ 2020-01-23T01:19:47+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T01:19:47+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+[ 2020-01-23T01:19:47+08:00 ] Notice: Make all files at page 1!
+[ 2020-01-23T01:19:47+08:00 ] Notice: Make all files was done!
+[ 2020-01-23T01:24:55+08:00 ]Guard server started
+[ 2020-01-23T01:24:55+08:00 ] add dir:/var/www/html/test
+[ 2020-01-23T01:24:55+08:00 ] add dir:/var/www/html/test/eg
+[ 2020-01-23T01:24:55+08:00 ] add dir:/var/www/html/test/eg/ff
+[ 2020-01-23T01:24:55+08:00 ] add dir:/var/www/html/test/eg/ff/eg
+[ 2020-01-23T01:24:55+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T01:24:55+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+[ 2020-01-23T01:24:55+08:00 ] add dir:/var/www/html/test/llf
+[ 2020-01-23T01:24:55+08:00 ]: worker started
+[2020-01-22 17:24:57 *3209.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[ 2020-01-23T01:26:13+08:00 ]Guard server started
+[ 2020-01-23T01:26:13+08:00 ] add dir:/var/www/html/test
+[ 2020-01-23T01:26:13+08:00 ] add dir:/var/www/html/test/eg
+[ 2020-01-23T01:26:13+08:00 ] add dir:/var/www/html/test/eg/ff
+[ 2020-01-23T01:26:13+08:00 ] add dir:/var/www/html/test/eg/ff/eg
+[ 2020-01-23T01:26:13+08:00 ] add dir:/var/www/html/test/llf
+[ 2020-01-23T01:26:13+08:00 ]: worker started
+[2020-01-22 17:26:14 *3231.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[ 2020-01-23T01:26:19+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T01:26:19+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+[ 2020-01-23T01:26:19+08:00 ] Notice: Make all files at page 1!
+[ 2020-01-23T01:26:19+08:00 ] Notice: Make all files was done!
+delete dir: /var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T01:34:30+08:00 ]Guard server started
+[ 2020-01-23T01:34:31+08:00 ] add dir:/var/www/html/test
+[ 2020-01-23T01:34:31+08:00 ] add dir:/var/www/html/test/eg
+[ 2020-01-23T01:34:31+08:00 ] add dir:/var/www/html/test/eg/ff
+[ 2020-01-23T01:34:31+08:00 ] add dir:/var/www/html/test/eg/ff/eg
+[ 2020-01-23T01:34:31+08:00 ] add dir:/var/www/html/test/llf
+[ 2020-01-23T01:34:31+08:00 ]: worker started
+[2020-01-22 17:34:32 *3239.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[ 2020-01-23T01:34:38+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T01:34:38+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+[ 2020-01-23T01:34:38+08:00 ] Notice: Make all files at page 1!
+
+Notice: Undefined variable: path in /var/www/html/service/Guard.php on line 84
+[ 2020-01-23T01:34:38+08:00 ] Notice: Make all files was done!
+delete dir: hh
+[ 2020-01-23T01:36:00+08:00 ]Guard server started
+[ 2020-01-23T01:36:00+08:00 ] add dir:/var/www/html/test
+[ 2020-01-23T01:36:00+08:00 ] add dir:/var/www/html/test/eg
+[ 2020-01-23T01:36:00+08:00 ] add dir:/var/www/html/test/eg/ff
+[ 2020-01-23T01:36:00+08:00 ] add dir:/var/www/html/test/eg/ff/eg
+[ 2020-01-23T01:36:00+08:00 ] add dir:/var/www/html/test/llf
+[ 2020-01-23T01:36:00+08:00 ]: worker started
+[2020-01-22 17:36:01 *3254.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[ 2020-01-23T01:36:06+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T01:36:06+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+[ 2020-01-23T01:36:07+08:00 ] Notice: Make all files at page 1!
+[ 2020-01-23T01:36:07+08:00 ] Notice: Make all files was done!
+
+Warning: inotify_add_watch(): No such file or directory in /var/www/html/service/Watcher.php on line 171
+[ 2020-01-23T01:36:18+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+delete dir: /var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T01:37:28+08:00 ]Guard server started
+[ 2020-01-23T01:37:28+08:00 ] add dir:/var/www/html/test
+[ 2020-01-23T01:37:28+08:00 ] add dir:/var/www/html/test/eg
+[ 2020-01-23T01:37:28+08:00 ] add dir:/var/www/html/test/eg/ff
+[ 2020-01-23T01:37:28+08:00 ] add dir:/var/www/html/test/eg/ff/eg
+[ 2020-01-23T01:37:28+08:00 ] add dir:/var/www/html/test/llf
+[ 2020-01-23T01:37:28+08:00 ]: worker started
+[2020-01-22 17:37:29 *3275.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[ 2020-01-23T01:37:33+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T01:37:33+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+[ 2020-01-23T01:37:33+08:00 ] Notice: Make all files at page 1!
+[ 2020-01-23T01:37:33+08:00 ] Notice: Make all files was done!
+
+Warning: inotify_add_watch(): No such file or directory in /var/www/html/service/Watcher.php on line 171
+[ 2020-01-23T01:37:39+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+delete dir: g/ff/eg/hh
+[ 2020-01-23T01:40:46+08:00 ]Guard server started
+[ 2020-01-23T01:40:47+08:00 ] add dir:/var/www/html/test
+[ 2020-01-23T01:40:47+08:00 ] add dir:/var/www/html/test/eg
+[ 2020-01-23T01:40:47+08:00 ] add dir:/var/www/html/test/eg/ff
+[ 2020-01-23T01:40:47+08:00 ] add dir:/var/www/html/test/eg/ff/eg
+[ 2020-01-23T01:40:47+08:00 ] add dir:/var/www/html/test/llf
+[ 2020-01-23T01:40:47+08:00 ]: worker started
+[2020-01-22 17:40:48 *3293.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[ 2020-01-23T01:40:51+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T01:40:51+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+[ 2020-01-23T01:40:51+08:00 ] Notice: Make all files at page 1!
+[ 2020-01-23T01:40:51+08:00 ] Notice: Make all files was done!
+
+Warning: inotify_add_watch(): No such file or directory in /var/www/html/service/Watcher.php on line 171
+[ 2020-01-23T01:40:56+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+delete dir: /eg/ff/eg/hh
+[ 2020-01-23T01:42:08+08:00 ]Guard server started
+[ 2020-01-23T01:42:08+08:00 ] add dir:/var/www/html/test
+[ 2020-01-23T01:42:08+08:00 ] add dir:/var/www/html/test/eg
+[ 2020-01-23T01:42:08+08:00 ] add dir:/var/www/html/test/eg/ff
+[ 2020-01-23T01:42:08+08:00 ] add dir:/var/www/html/test/eg/ff/eg
+[ 2020-01-23T01:42:08+08:00 ] add dir:/var/www/html/test/llf
+[ 2020-01-23T01:42:08+08:00 ]: worker started
+[2020-01-22 17:42:09 *3310.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[ 2020-01-23T01:42:10+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T01:42:10+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+[ 2020-01-23T01:42:10+08:00 ] Notice: Make all files at page 1!
+[ 2020-01-23T01:42:10+08:00 ] Notice: Make all files was done!
+
+Warning: inotify_add_watch(): No such file or directory in /var/www/html/service/Watcher.php on line 171
+[ 2020-01-23T01:42:17+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+delete dir: /eg/ff/eg/hh
+[ 2020-01-23T01:42:17+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T01:42:17+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+[ 2020-01-23T01:42:17+08:00 ] Notice: Make all files at page 1!
+[ 2020-01-23T01:42:17+08:00 ] Notice: Make all files was done!
+[ 2020-01-23T01:43:32+08:00 ]Guard server started
+[ 2020-01-23T01:43:32+08:00 ] add dir:/var/www/html/test
+[ 2020-01-23T01:43:32+08:00 ] add dir:/var/www/html/test/eg
+[ 2020-01-23T01:43:32+08:00 ] add dir:/var/www/html/test/eg/ff
+[ 2020-01-23T01:43:32+08:00 ] add dir:/var/www/html/test/eg/ff/eg
+[ 2020-01-23T01:43:32+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T01:43:32+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+[ 2020-01-23T01:43:32+08:00 ] add dir:/var/www/html/test/llf
+[ 2020-01-23T01:43:32+08:00 ]: worker started
+[2020-01-22 17:43:34 *3327.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+delete dir: /eg/ff/eg/hh
+[ 2020-01-23T01:43:39+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T01:43:39+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+[ 2020-01-23T01:43:39+08:00 ] Notice: Make all files at page 1!
+[ 2020-01-23T01:43:39+08:00 ] Notice: Make all files was done!
+[ 2020-01-23T01:44:15+08:00 ]Guard server started
+[ 2020-01-23T01:44:15+08:00 ] add dir:/var/www/html/test
+[ 2020-01-23T01:44:15+08:00 ] add dir:/var/www/html/test/eg
+[ 2020-01-23T01:44:15+08:00 ] add dir:/var/www/html/test/eg/ff
+[ 2020-01-23T01:44:15+08:00 ] add dir:/var/www/html/test/eg/ff/eg
+[ 2020-01-23T01:44:15+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T01:44:15+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+[ 2020-01-23T01:44:15+08:00 ] add dir:/var/www/html/test/llf
+[ 2020-01-23T01:44:15+08:00 ]: worker started
+[2020-01-22 17:44:17 *3353.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+delete dir: /eg/ff/eg/hh
+[ 2020-01-23T01:44:23+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T01:44:23+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+[ 2020-01-23T01:44:23+08:00 ] Notice: Make all files at page 1!
+[ 2020-01-23T01:44:23+08:00 ] Notice: Make all files was done!
+[ 2020-01-23T01:45:09+08:00 ]Guard server started
+[ 2020-01-23T01:45:09+08:00 ] add dir:/var/www/html/test
+[ 2020-01-23T01:45:09+08:00 ] add dir:/var/www/html/test/eg
+[ 2020-01-23T01:45:09+08:00 ] add dir:/var/www/html/test/eg/ff
+[ 2020-01-23T01:45:09+08:00 ] add dir:/var/www/html/test/eg/ff/eg
+[ 2020-01-23T01:45:09+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T01:45:09+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+[ 2020-01-23T01:45:09+08:00 ] add dir:/var/www/html/test/llf
+[ 2020-01-23T01:45:09+08:00 ]: worker started
+[2020-01-22 17:45:10 *3373.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+delete dir: /eg/ff/eg/hh
+判断是否忽略这个目录: /eg/ff/eg/hh/vvvv.html|/eg/ff/eg/hh 
+[ 2020-01-23T01:45:15+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+判断是否忽略这个目录: /eg/ff/eg/hh/asdf.html|/eg/ff/eg/hh 
+判断是否忽略这个目录: /eg/ff/eg/hh/kk.html|/eg/ff/eg/hh 
+判断是否忽略这个目录: /eg/ff/eg/hh/ga/kk.html|/eg/ff/eg/hh 
+[ 2020-01-23T01:45:15+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+判断是否忽略这个目录: /eg/ff/eg/hh/ga/ee.html|/eg/ff/eg/hh 
+判断是否忽略这个目录: /eg/ff/eg/hh/ga/ff.html|/eg/ff/eg/hh 
+[ 2020-01-23T01:45:15+08:00 ] Notice: Make all files at page 1!
+[ 2020-01-23T01:45:16+08:00 ] Notice: Make all files was done!
+[ 2020-01-23T01:45:56+08:00 ] Warning: The file `/var/www/html/test/eg/ff/eg/hh/ga/ee.html` was resumed in 1 time, mask 2 
+[ 2020-01-23T01:45:56+08:00 ] 发送消息通知: 文件 /var/www/html/test/eg/ff/eg/hh/ga/ee.html 被修改, QinGuard防篡改系统已经自动还原, /var/www/html/test/eg/ff/eg/hh/ga/ee.html, 401
+
+Warning: file_put_contents(/var/www/html/test/eg/ff/uu/hh/vvvv.html): failed to open stream: No such file or directory in /var/www/html/service/Guard.php on line 134
+
+Notice: Undefined variable: keyItem in /var/www/html/service/Driver/Db/RedisDriver.php on line 117
+[ 2020-01-23T01:46:53+08:00 ] 发送消息通知: 删除文件 /var/www/html/test/eg/ff/uu/hh/vvvv.html 成功, QinGuard防篡改系统已经删除指定的文件, /eg/ff/uu/hh/vvvv.html, 600
+[ 2020-01-23T01:47:51+08:00 ]Guard server started
+[ 2020-01-23T01:47:51+08:00 ] add dir:/var/www/html/test
+[ 2020-01-23T01:47:51+08:00 ] add dir:/var/www/html/test/eg
+[ 2020-01-23T01:47:51+08:00 ] add dir:/var/www/html/test/eg/ff
+[ 2020-01-23T01:47:51+08:00 ] add dir:/var/www/html/test/eg/ff/eg
+[ 2020-01-23T01:47:51+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T01:47:51+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+[ 2020-01-23T01:47:51+08:00 ] add dir:/var/www/html/test/llf
+[ 2020-01-23T01:47:51+08:00 ]: worker started
+[2020-01-22 17:47:53 *3388.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[ 2020-01-23T01:48:19+08:00 ]Guard server started
+[ 2020-01-23T01:48:19+08:00 ] add dir:/var/www/html/test
+[ 2020-01-23T01:48:19+08:00 ] add dir:/var/www/html/test/eg
+[ 2020-01-23T01:48:19+08:00 ] add dir:/var/www/html/test/eg/ff
+[ 2020-01-23T01:48:19+08:00 ] add dir:/var/www/html/test/eg/ff/eg
+[ 2020-01-23T01:48:19+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T01:48:19+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+[ 2020-01-23T01:48:19+08:00 ] add dir:/var/www/html/test/llf
+[ 2020-01-23T01:48:19+08:00 ]: worker started
+[2020-01-22 17:48:21 *3408.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[ 2020-01-23T01:48:38+08:00 ] Notice: Make all files at page 1!
+[ 2020-01-23T01:48:38+08:00 ] Notice: Make all files was done!
+[ 2020-01-23T01:50:03+08:00 ] 发送消息通知: 新增文件 /var/www/html/test/eg/ff/uu/hh/vvvv.html 失败, QinGuard防篡改系统无法登记指定的文件, /eg/ff/uu/hh/vvvv.html, 601
+[ 2020-01-23T01:52:13+08:00 ]Guard server started
+[ 2020-01-23T01:52:13+08:00 ] add dir:/var/www/html/test
+[ 2020-01-23T01:52:13+08:00 ] add dir:/var/www/html/test/eg
+[ 2020-01-23T01:52:13+08:00 ] add dir:/var/www/html/test/eg/ff
+[ 2020-01-23T01:52:13+08:00 ] add dir:/var/www/html/test/eg/ff/eg
+[ 2020-01-23T01:52:13+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T01:52:13+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+[ 2020-01-23T01:52:13+08:00 ] add dir:/var/www/html/test/llf
+[ 2020-01-23T01:52:13+08:00 ]: worker started
+[2020-01-22 17:52:14 *3416.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[ 2020-01-23T01:53:13+08:00 ]Guard server started
+[ 2020-01-23T01:53:14+08:00 ] add dir:/var/www/html/test
+[ 2020-01-23T01:53:14+08:00 ] add dir:/var/www/html/test/eg
+[ 2020-01-23T01:53:14+08:00 ] add dir:/var/www/html/test/eg/ff
+[ 2020-01-23T01:53:14+08:00 ] add dir:/var/www/html/test/eg/ff/eg
+[ 2020-01-23T01:53:14+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T01:53:14+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+[ 2020-01-23T01:53:14+08:00 ] add dir:/var/www/html/test/llf
+[ 2020-01-23T01:53:14+08:00 ]: worker started
+[2020-01-22 17:53:15 *3433.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[ 2020-01-23T01:53:16+08:00 ] add dir:/var/www/html/test/eg/ff/uu
+[ 2020-01-23T01:53:16+08:00 ] add dir:/var/www/html/test/eg/ff/uu/hh
+[ 2020-01-23T01:53:51+08:00 ]Guard server started
+[ 2020-01-23T01:53:52+08:00 ] add dir:/var/www/html/test
+[ 2020-01-23T01:53:52+08:00 ] add dir:/var/www/html/test/eg
+[ 2020-01-23T01:53:52+08:00 ] add dir:/var/www/html/test/eg/ff
+[ 2020-01-23T01:53:52+08:00 ] add dir:/var/www/html/test/eg/ff/eg
+[ 2020-01-23T01:53:52+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T01:53:52+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+[ 2020-01-23T01:53:52+08:00 ] add dir:/var/www/html/test/eg/ff/uu
+[ 2020-01-23T01:53:52+08:00 ] add dir:/var/www/html/test/eg/ff/uu/hh
+[ 2020-01-23T01:53:52+08:00 ] add dir:/var/www/html/test/llf
+[ 2020-01-23T01:53:52+08:00 ]: worker started
+[2020-01-22 17:53:53 *3443.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[ 2020-01-23T01:54:00+08:00 ] Notice: Make all files at page 1!
+[ 2020-01-23T01:54:00+08:00 ] Notice: Make all files was done!
+[ 2020-01-23T01:55:33+08:00 ] 发送消息通知: 新增文件 /var/www/html/test/eg/ff/uu/hh/vvvv.html 失败, QinGuard防篡改系统无法登记指定的文件, /eg/ff/uu/hh/vvvv.html, 601
+[ 2020-01-23T01:55:53+08:00 ] 发送消息通知: 新增文件 /var/www/html/test/eg/ff/uu/hh/vvvv.html 失败, QinGuard防篡改系统无法登记指定的文件, /eg/ff/uu/hh/vvvv.html, 601
+delete dir: /eg/ff/uu
+忽略这个目录: /eg/ff/eg/hh/vvvv.html 
+忽略这个目录: /eg/ff/eg/hh/asdf.html 
+忽略这个目录: /eg/ff/eg/hh/kk.html 
+忽略这个目录: /eg/ff/eg/hh/ga/kk.html 
+忽略这个目录: /eg/ff/eg/hh/ga/ee.html 
+忽略这个目录: /eg/ff/eg/hh/ga/ff.html 
+[ 2020-01-23T01:57:38+08:00 ] Notice: Make all files at page 1!
+[ 2020-01-23T01:57:38+08:00 ] Notice: Make all files was done!
+[ 2020-01-23T01:57:42+08:00 ]Guard server started
+[ 2020-01-23T01:57:42+08:00 ] add dir:/var/www/html/test
+[ 2020-01-23T01:57:42+08:00 ] add dir:/var/www/html/test/eg
+[ 2020-01-23T01:57:42+08:00 ] add dir:/var/www/html/test/eg/ff
+[ 2020-01-23T01:57:42+08:00 ] add dir:/var/www/html/test/eg/ff/eg
+[ 2020-01-23T01:57:42+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T01:57:42+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+[ 2020-01-23T01:57:42+08:00 ] add dir:/var/www/html/test/llf
+[ 2020-01-23T01:57:42+08:00 ]: worker started
+[2020-01-22 17:57:43 *3453.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[ 2020-01-23T01:58:52+08:00 ]Guard server started
+[ 2020-01-23T01:58:53+08:00 ] add dir:/var/www/html/test
+[ 2020-01-23T01:58:53+08:00 ] add dir:/var/www/html/test/eg
+[ 2020-01-23T01:58:53+08:00 ] add dir:/var/www/html/test/eg/ff
+[ 2020-01-23T01:58:53+08:00 ] add dir:/var/www/html/test/eg/ff/eg
+[ 2020-01-23T01:58:53+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T01:58:53+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+[ 2020-01-23T01:58:53+08:00 ] add dir:/var/www/html/test/llf
+[ 2020-01-23T01:58:53+08:00 ]: worker started
+[2020-01-22 17:58:54 *3469.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+bool(true)
+bool(true)
+bool(true)
+bool(true)
+[ 2020-01-23T01:59:35+08:00 ]Guard server started
+[ 2020-01-23T01:59:36+08:00 ] add dir:/var/www/html/test
+[ 2020-01-23T01:59:36+08:00 ] add dir:/var/www/html/test/eg
+[ 2020-01-23T01:59:36+08:00 ] add dir:/var/www/html/test/eg/ff
+[ 2020-01-23T01:59:36+08:00 ] add dir:/var/www/html/test/eg/ff/eg
+[ 2020-01-23T01:59:36+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T01:59:36+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+[ 2020-01-23T01:59:36+08:00 ] add dir:/var/www/html/test/llf
+[ 2020-01-23T01:59:36+08:00 ]: worker started
+[2020-01-22 17:59:36 *3477.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+bool(false)
+bool(false)
+bool(false)
+bool(false)
+bool(false)
+[ 2020-01-23T02:00:20+08:00 ]Guard server started
+[ 2020-01-23T02:00:20+08:00 ] add dir:/var/www/html/test
+[ 2020-01-23T02:00:20+08:00 ] add dir:/var/www/html/test/eg
+[ 2020-01-23T02:00:20+08:00 ] add dir:/var/www/html/test/eg/ff
+[ 2020-01-23T02:00:20+08:00 ] add dir:/var/www/html/test/eg/ff/eg
+[ 2020-01-23T02:00:20+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T02:00:20+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+[ 2020-01-23T02:00:20+08:00 ] add dir:/var/www/html/test/llf
+[ 2020-01-23T02:00:20+08:00 ]: worker started
+[2020-01-22 18:00:21 *3485.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+string(32) "97989161085d742921b421af6a6c9218"
+string(32) "97989161085d742921b421af6a6c9218"
+string(32) "97989161085d742921b421af6a6c9218"
+[ 2020-01-23T02:00:51+08:00 ]Guard server started
+[ 2020-01-23T02:00:51+08:00 ] add dir:/var/www/html/test
+[ 2020-01-23T02:00:51+08:00 ] add dir:/var/www/html/test/eg
+[ 2020-01-23T02:00:51+08:00 ] add dir:/var/www/html/test/eg/ff
+[ 2020-01-23T02:00:51+08:00 ] add dir:/var/www/html/test/eg/ff/eg
+[ 2020-01-23T02:00:51+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T02:00:51+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+[ 2020-01-23T02:00:51+08:00 ] add dir:/var/www/html/test/llf
+[ 2020-01-23T02:00:51+08:00 ]: worker started
+string(32) "97989161085d742921b421af6a6c9218"
+[2020-01-22 18:00:53 *3493.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[ 2020-01-23T02:01:31+08:00 ]Guard server started
+[ 2020-01-23T02:01:31+08:00 ] add dir:/var/www/html/test
+[ 2020-01-23T02:01:31+08:00 ] add dir:/var/www/html/test/eg
+[ 2020-01-23T02:01:31+08:00 ] add dir:/var/www/html/test/eg/ff
+[ 2020-01-23T02:01:31+08:00 ] add dir:/var/www/html/test/eg/ff/eg
+[ 2020-01-23T02:01:31+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T02:01:31+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+[ 2020-01-23T02:01:31+08:00 ] add dir:/var/www/html/test/llf
+[ 2020-01-23T02:01:31+08:00 ]: worker started
+[2020-01-22 18:01:32 *3501.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[ 2020-01-23T02:01:43+08:00 ] add dir:/var/www/html/test/eg/ff/uu
+[ 2020-01-23T02:01:43+08:00 ] add dir:/var/www/html/test/eg/ff/uu/hh
+[ 2020-01-23T02:01:43+08:00 ] Warning: The file `/eg/ff/uu/hh/vvvv.html` was created 
+[ 2020-01-23T02:01:43+08:00 ] 发送消息通知: 新增文件 /var/www/html/test/eg/ff/uu/hh/vvvv.html 成功, QinGuard防篡改系统已经登记指定的文件, /eg/ff/uu/hh/vvvv.html, 600
+[ 2020-01-23T02:02:01+08:00 ] Warning: The file `/var/www/html/test/eg/ff/uu/hh/vvvv.html` was resumed in 1 time, mask 2 
+[ 2020-01-23T02:02:01+08:00 ] 发送消息通知: 文件 /var/www/html/test/eg/ff/uu/hh/vvvv.html 被修改, QinGuard防篡改系统已经自动还原, /var/www/html/test/eg/ff/uu/hh/vvvv.html, 401
+[ 2020-01-23T02:02:01+08:00 ] Warning: The file `/var/www/html/test/eg/ff/uu/hh/vvvv.html` was resumed in 1 time, mask 512 
+[ 2020-01-23T02:02:01+08:00 ] 发送消息通知: 文件 /var/www/html/test/eg/ff/uu/hh/vvvv.html 被删除, QinGuard防篡改系统已经自动生成, /var/www/html/test/eg/ff/uu/hh/vvvv.html, 405
+[ 2020-01-23T02:04:30+08:00 ]Guard server started
+[ 2020-01-23T02:04:30+08:00 ] add dir:/var/www/html/test
+[ 2020-01-23T02:04:30+08:00 ] add dir:/var/www/html/test/eg
+[ 2020-01-23T02:04:30+08:00 ] add dir:/var/www/html/test/eg/ff
+[ 2020-01-23T02:04:30+08:00 ] add dir:/var/www/html/test/eg/ff/eg
+[ 2020-01-23T02:04:30+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T02:04:30+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+[ 2020-01-23T02:04:30+08:00 ] add dir:/var/www/html/test/eg/ff/uu
+[ 2020-01-23T02:04:30+08:00 ] add dir:/var/www/html/test/eg/ff/uu/hh
+[ 2020-01-23T02:04:30+08:00 ] add dir:/var/www/html/test/llf
+[ 2020-01-23T02:04:30+08:00 ]: worker started
+[2020-01-22 18:04:32 *3509.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[ 2020-01-23T02:04:41+08:00 ] Warning: The file `/eg/ff/uu/hh/vvvv.html` was created 
+[ 2020-01-23T02:04:41+08:00 ] 发送消息通知: 新增文件 /var/www/html/test/eg/ff/uu/hh/vvvv.html 成功, QinGuard防篡改系统已经登记指定的文件, /eg/ff/uu/hh/vvvv.html, 600
+[ 2020-01-23T02:04:49+08:00 ] Warning: The file `/var/www/html/test/eg/ff/uu/hh/vvvv.html` was resumed in 1 time, mask 2 
+[ 2020-01-23T02:04:49+08:00 ] 发送消息通知: 文件 /var/www/html/test/eg/ff/uu/hh/vvvv.html 被修改, QinGuard防篡改系统已经自动还原, /var/www/html/test/eg/ff/uu/hh/vvvv.html, 401
+[ 2020-01-23T08:58:36+08:00 ]Guard server started
+[ 2020-01-23T08:58:36+08:00 ] add dir:/var/www/html/test
+[ 2020-01-23T08:58:36+08:00 ] add dir:/var/www/html/test/eg
+[ 2020-01-23T08:58:36+08:00 ] add dir:/var/www/html/test/eg/ff
+[ 2020-01-23T08:58:36+08:00 ] add dir:/var/www/html/test/eg/ff/eg
+[ 2020-01-23T08:58:36+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T08:58:36+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+[ 2020-01-23T08:58:36+08:00 ] add dir:/var/www/html/test/eg/ff/uu
+[ 2020-01-23T08:58:36+08:00 ] add dir:/var/www/html/test/eg/ff/uu/hh
+[ 2020-01-23T08:58:36+08:00 ] add dir:/var/www/html/test/llf
+[ 2020-01-23T08:58:36+08:00 ]: worker started
+[2020-01-23 00:58:37 *3519.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+delete dir: /eg/ff/uu
+[ 2020-01-23T08:58:50+08:00 ] add dir:/var/www/html/test/eg/ff/uu
+[ 2020-01-23T08:58:50+08:00 ] add dir:/var/www/html/test/eg/ff/uu/hh
+忽略这个目录: /eg/ff/eg/hh/vvvv.html 
+忽略这个目录: /eg/ff/eg/hh/asdf.html 
+忽略这个目录: /eg/ff/eg/hh/kk.html 
+忽略这个目录: /eg/ff/eg/hh/ga/kk.html 
+忽略这个目录: /eg/ff/eg/hh/ga/ee.html 
+忽略这个目录: /eg/ff/eg/hh/ga/ff.html 
+[ 2020-01-23T08:58:50+08:00 ] Notice: Make all files at page 1!
+[ 2020-01-23T08:59:29+08:00 ] Notice: Make all files was done!
+[ 2020-01-23T08:59:29+08:00 ] Warning: The file `/var/www/html/test/eg/ff/uu/hh/vvvv.html` was resumed in 1 time, mask 2 
+[ 2020-01-23T08:59:29+08:00 ] 发送消息通知: 文件 /var/www/html/test/eg/ff/uu/hh/vvvv.html 被修改, QinGuard防篡改系统已经自动还原, /var/www/html/test/eg/ff/uu/hh/vvvv.html, 401
+[ 2020-01-23T08:59:29+08:00 ] Warning: The file `/var/www/html/test/eg/ff/uu/hh/vvvv.html` was resumed in 1 time, mask 2 
+[ 2020-01-23T08:59:29+08:00 ] 发送消息通知: 文件 /var/www/html/test/eg/ff/uu/hh/vvvv.html 被修改, QinGuard防篡改系统已经自动还原, /var/www/html/test/eg/ff/uu/hh/vvvv.html, 401
+[ 2020-01-23T09:00:12+08:00 ]Guard server started
+[ 2020-01-23T09:00:12+08:00 ] add dir:/var/www/html/test
+[ 2020-01-23T09:00:12+08:00 ] add dir:/var/www/html/test/eg
+[ 2020-01-23T09:00:12+08:00 ] add dir:/var/www/html/test/eg/ff
+[ 2020-01-23T09:00:12+08:00 ] add dir:/var/www/html/test/eg/ff/eg
+[ 2020-01-23T09:00:12+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T09:00:12+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+[ 2020-01-23T09:00:12+08:00 ] add dir:/var/www/html/test/eg/ff/uu
+[ 2020-01-23T09:00:12+08:00 ] add dir:/var/www/html/test/eg/ff/uu/hh
+[ 2020-01-23T09:00:12+08:00 ] add dir:/var/www/html/test/llf
+[ 2020-01-23T09:00:12+08:00 ]: worker started
+[2020-01-23 01:00:13 *3529.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+delete dir: /eg/ff/uu/hh
+[ 2020-01-23T09:00:26+08:00 ] add dir:/var/www/html/test/eg/ff/uu/hh
+忽略这个目录: /eg/ff/eg/hh/vvvv.html 
+[ 2020-01-23T09:00:26+08:00 ] Notice: Make all files at page 1!
+忽略这个目录: /eg/ff/eg/hh/vvvv.html 
+[ 2020-01-23T09:01:21+08:00 ] Notice: Make all files at page 2!
+忽略这个目录: /eg/ff/eg/hh/asdf.html 
+[ 2020-01-23T09:01:21+08:00 ] Notice: Make all files at page 3!
+[ 2020-01-23T09:01:21+08:00 ] Warning: The file `/var/www/html/test/eg/ff/uu/hh/vvvv.html` was resumed in 1 time, mask 2 
+[ 2020-01-23T09:01:21+08:00 ] 发送消息通知: 文件 /var/www/html/test/eg/ff/uu/hh/vvvv.html 被修改, QinGuard防篡改系统已经自动还原, /var/www/html/test/eg/ff/uu/hh/vvvv.html, 401
+[ 2020-01-23T09:01:21+08:00 ] Warning: The file `/var/www/html/test/eg/ff/uu/hh/vvvv.html` was resumed in 1 time, mask 2 
+[ 2020-01-23T09:01:21+08:00 ] 发送消息通知: 文件 /var/www/html/test/eg/ff/uu/hh/vvvv.html 被修改, QinGuard防篡改系统已经自动还原, /var/www/html/test/eg/ff/uu/hh/vvvv.html, 401
+[ 2020-01-23T09:01:21+08:00 ] Warning: The file `/var/www/html/test/eg/ff/uu/hh/vvvv.html` was resumed in 1 time, mask 2 
+[ 2020-01-23T09:01:21+08:00 ] 发送消息通知: 文件 /var/www/html/test/eg/ff/uu/hh/vvvv.html 被修改, QinGuard防篡改系统已经自动还原, /var/www/html/test/eg/ff/uu/hh/vvvv.html, 401
+忽略这个目录: /eg/ff/eg/hh/asdf.html 
+忽略这个目录: /eg/ff/eg/hh/kk.html 
+[ 2020-01-23T09:01:21+08:00 ] Notice: Make all files at page 4!
+忽略这个目录: /eg/ff/eg/hh/kk.html 
+忽略这个目录: /eg/ff/eg/hh/ga/kk.html 
+[ 2020-01-23T09:01:21+08:00 ] Notice: Make all files at page 5!
+忽略这个目录: /eg/ff/eg/hh/ga/kk.html 
+忽略这个目录: /eg/ff/eg/hh/ga/ee.html 
+[ 2020-01-23T09:01:21+08:00 ] Notice: Make all files at page 6!
+忽略这个目录: /eg/ff/eg/hh/ga/ee.html 
+忽略这个目录: /eg/ff/eg/hh/ga/ff.html 
+[ 2020-01-23T09:01:21+08:00 ] Notice: Make all files at page 7!
+忽略这个目录: /eg/ff/eg/hh/ga/ff.html 
+[ 2020-01-23T09:01:21+08:00 ] Notice: Make all files at page 8!
+[ 2020-01-23T09:01:21+08:00 ] Notice: Make all files was done!
+[ 2020-01-23T14:18:39+08:00 ] Warning: The file `/eg/ff/uu/hh/vvvv.html` was created 
+[ 2020-01-23T14:18:39+08:00 ] 发送消息通知: 新增文件 /var/www/html/test/eg/ff/uu/hh/vvvv.html 成功, QinGuard防篡改系统已经登记指定的文件, /eg/ff/uu/hh/vvvv.html, 600
+[ 2020-01-23T14:19:21+08:00 ] Warning: The file `/var/www/html/test/eg/ff/uu/hh/vvvv.html` was resumed in 1 time, mask 512 
+[ 2020-01-23T14:19:21+08:00 ] 发送消息通知: 文件 /var/www/html/test/eg/ff/uu/hh/vvvv.html 被删除, QinGuard防篡改系统已经自动生成, /var/www/html/test/eg/ff/uu/hh/vvvv.html, 405
+delete dir: /eg/ff/uu/hh
+
+Warning: file_put_contents(/var/www/html/test/eg/ff/uu/hh/vvvv.html): failed to open stream: No such file or directory in /var/www/html/service/Guard.php on line 70
+忽略这个目录: /eg/ff/eg/hh/vvvv.html 
+[ 2020-01-23T14:19:34+08:00 ] Notice: Make all files at page 1!
+忽略这个目录: /eg/ff/eg/hh/vvvv.html 
+[ 2020-01-23T14:19:34+08:00 ] Notice: Make all files at page 2!
+忽略这个目录: /eg/ff/eg/hh/asdf.html 
+[ 2020-01-23T14:19:34+08:00 ] Notice: Make all files at page 3!
+忽略这个目录: /eg/ff/eg/hh/asdf.html 
+忽略这个目录: /eg/ff/eg/hh/kk.html 
+[ 2020-01-23T14:19:34+08:00 ] Notice: Make all files at page 4!
+忽略这个目录: /eg/ff/eg/hh/kk.html 
+忽略这个目录: /eg/ff/eg/hh/ga/kk.html 
+[ 2020-01-23T14:19:34+08:00 ] Notice: Make all files at page 5!
+忽略这个目录: /eg/ff/eg/hh/ga/kk.html 
+忽略这个目录: /eg/ff/eg/hh/ga/ee.html 
+[ 2020-01-23T14:19:34+08:00 ] Notice: Make all files at page 6!
+忽略这个目录: /eg/ff/eg/hh/ga/ee.html 
+忽略这个目录: /eg/ff/eg/hh/ga/ff.html 
+[ 2020-01-23T14:19:34+08:00 ] Notice: Make all files at page 7!
+忽略这个目录: /eg/ff/eg/hh/ga/ff.html 
+[ 2020-01-23T14:19:34+08:00 ] Notice: Make all files at page 8!
+[ 2020-01-23T14:19:34+08:00 ] Notice: Make all files was done!
+
+Warning: file_put_contents(/var/www/html/test/eg/ff/uu/hh/vvvv.html): failed to open stream: No such file or directory in /var/www/html/service/Guard.php on line 70
+
+Warning: file_put_contents(/var/www/html/test/eg/ff/uu/hh/vvvv.html): failed to open stream: No such file or directory in /var/www/html/service/Guard.php on line 70
+
+Warning: file_put_contents(/var/www/html/test/eg/ff/uu/hh/vvvv.html): failed to open stream: No such file or directory in /var/www/html/service/Guard.php on line 70
+
+Warning: file_put_contents(/var/www/html/test/eg/ff/uu/hh/vvvv.html): failed to open stream: No such file or directory in /var/www/html/service/Guard.php on line 70
+
+Warning: file_put_contents(/var/www/html/test/eg/ff/uu/hh/vvvv.html): failed to open stream: No such file or directory in /var/www/html/service/Guard.php on line 70
+
+Warning: file_put_contents(/var/www/html/test/eg/ff/uu/hh/vvvv.html): failed to open stream: No such file or directory in /var/www/html/service/Guard.php on line 70
+[ 2020-01-23T14:20:41+08:00 ]Guard server started
+[ 2020-01-23T14:20:41+08:00 ] add dir:/var/www/html/test
+[ 2020-01-23T14:20:41+08:00 ] add dir:/var/www/html/test/eg
+[ 2020-01-23T14:20:41+08:00 ] add dir:/var/www/html/test/eg/ff
+[ 2020-01-23T14:20:41+08:00 ] add dir:/var/www/html/test/eg/ff/eg
+[ 2020-01-23T14:20:41+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T14:20:41+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+[ 2020-01-23T14:20:41+08:00 ] add dir:/var/www/html/test/eg/ff/uu
+[ 2020-01-23T14:20:41+08:00 ] add dir:/var/www/html/test/llf
+[ 2020-01-23T14:20:41+08:00 ]: worker started
+[2020-01-23 06:20:43 *3539.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[ 2020-01-23T14:20:48+08:00 ] add dir:/var/www/html/test/eg/ff/uu/hh
+[ 2020-01-23T14:20:48+08:00 ] Warning: The file `/eg/ff/uu/hh/vvvv.html` was created 
+[ 2020-01-23T14:20:48+08:00 ] 发送消息通知: 新增文件 /var/www/html/test/eg/ff/uu/hh/vvvv.html 成功, QinGuard防篡改系统已经登记指定的文件, /eg/ff/uu/hh/vvvv.html, 600
+[ 2020-01-23T14:20:53+08:00 ] Warning: The file `/var/www/html/test/eg/ff/uu/hh/vvvv.html` was resumed in 1 time, mask 2 
+[ 2020-01-23T14:20:53+08:00 ] 发送消息通知: 文件 /var/www/html/test/eg/ff/uu/hh/vvvv.html 被修改, QinGuard防篡改系统已经自动还原, /var/www/html/test/eg/ff/uu/hh/vvvv.html, 401
+[ 2020-01-23T14:20:53+08:00 ] Warning: The file `/var/www/html/test/eg/ff/uu/hh/vvvv.html` was resumed in 1 time, mask 2 
+[ 2020-01-23T14:20:53+08:00 ] 发送消息通知: 文件 /var/www/html/test/eg/ff/uu/hh/vvvv.html 被修改, QinGuard防篡改系统已经自动还原, /var/www/html/test/eg/ff/uu/hh/vvvv.html, 401
+[ 2020-01-23T14:20:53+08:00 ] Warning: The file `/var/www/html/test/eg/ff/uu/hh/vvvv.html` was resumed in 1 time, mask 256 
+[ 2020-01-23T14:20:53+08:00 ] 发送消息通知: 文件 /var/www/html/test/eg/ff/uu/hh/vvvv.html 被修改, QinGuard防篡改系统已经自动还原, /var/www/html/test/eg/ff/uu/hh/vvvv.html, 401
+[ 2020-01-23T14:20:53+08:00 ] Warning: The file `/var/www/html/test/eg/ff/uu/hh/vvvv.html` was resumed in 1 time, mask 512 
+[ 2020-01-23T14:20:53+08:00 ] 发送消息通知: 文件 /var/www/html/test/eg/ff/uu/hh/vvvv.html 被删除, QinGuard防篡改系统已经自动生成, /var/www/html/test/eg/ff/uu/hh/vvvv.html, 405
+delete dir: /eg/ff/uu/hh
+
+Warning: file_put_contents(/var/www/html/test/eg/ff/uu/hh/vvvv.html): failed to open stream: No such file or directory in /var/www/html/service/Guard.php on line 72
+忽略这个目录: /eg/ff/eg/hh/vvvv.html 
+[ 2020-01-23T14:21:08+08:00 ] Notice: Make all files at page 1!
+
+Warning: file_put_contents(/var/www/html/test/eg/ff/uu/hh/vvvv.html): failed to open stream: No such file or directory in /var/www/html/service/Guard.php on line 242
+忽略这个目录: /eg/ff/eg/hh/vvvv.html 
+[ 2020-01-23T14:21:08+08:00 ] Notice: Make all files at page 2!
+忽略这个目录: /eg/ff/eg/hh/asdf.html 
+[ 2020-01-23T14:21:08+08:00 ] Notice: Make all files at page 3!
+忽略这个目录: /eg/ff/eg/hh/asdf.html 
+忽略这个目录: /eg/ff/eg/hh/kk.html 
+[ 2020-01-23T14:21:08+08:00 ] Notice: Make all files at page 4!
+忽略这个目录: /eg/ff/eg/hh/kk.html 
+忽略这个目录: /eg/ff/eg/hh/ga/kk.html 
+[ 2020-01-23T14:21:08+08:00 ] Notice: Make all files at page 5!
+忽略这个目录: /eg/ff/eg/hh/ga/kk.html 
+忽略这个目录: /eg/ff/eg/hh/ga/ee.html 
+[ 2020-01-23T14:21:08+08:00 ] Notice: Make all files at page 6!
+忽略这个目录: /eg/ff/eg/hh/ga/ee.html 
+忽略这个目录: /eg/ff/eg/hh/ga/ff.html 
+[ 2020-01-23T14:21:08+08:00 ] Notice: Make all files at page 7!
+忽略这个目录: /eg/ff/eg/hh/ga/ff.html 
+[ 2020-01-23T14:21:08+08:00 ] Notice: Make all files at page 8!
+[ 2020-01-23T14:21:08+08:00 ] Notice: Make all files was done!
+
+Warning: file_put_contents(/var/www/html/test/eg/ff/uu/hh/vvvv.html): failed to open stream: No such file or directory in /var/www/html/service/Guard.php on line 72
+
+Warning: file_put_contents(/var/www/html/test/eg/ff/uu/hh/vvvv.html): failed to open stream: No such file or directory in /var/www/html/service/Guard.php on line 242
+
+Warning: file_put_contents(/var/www/html/test/eg/ff/uu/hh/vvvv.html): failed to open stream: No such file or directory in /var/www/html/service/Guard.php on line 72
+
+Warning: file_put_contents(/var/www/html/test/eg/ff/uu/hh/vvvv.html): failed to open stream: No such file or directory in /var/www/html/service/Guard.php on line 242
+
+Warning: file_put_contents(/var/www/html/test/eg/ff/uu/hh/vvvv.html): failed to open stream: No such file or directory in /var/www/html/service/Guard.php on line 72
+
+Warning: file_put_contents(/var/www/html/test/eg/ff/uu/hh/vvvv.html): failed to open stream: No such file or directory in /var/www/html/service/Guard.php on line 242
+
+Warning: file_put_contents(/var/www/html/test/eg/ff/uu/hh/vvvv.html): failed to open stream: No such file or directory in /var/www/html/service/Guard.php on line 242
+
+Warning: file_put_contents(/var/www/html/test/eg/ff/uu/hh/vvvv.html): failed to open stream: No such file or directory in /var/www/html/service/Guard.php on line 72
+
+Warning: file_put_contents(/var/www/html/test/eg/ff/uu/hh/vvvv.html): failed to open stream: No such file or directory in /var/www/html/service/Guard.php on line 242
+
+Warning: file_put_contents(/var/www/html/test/eg/ff/uu/hh/vvvv.html): failed to open stream: No such file or directory in /var/www/html/service/Guard.php on line 72
+
+Warning: file_put_contents(/var/www/html/test/eg/ff/uu/hh/vvvv.html): failed to open stream: No such file or directory in /var/www/html/service/Guard.php on line 72
+
+Warning: file_put_contents(/var/www/html/test/eg/ff/uu/hh/vvvv.html): failed to open stream: No such file or directory in /var/www/html/service/Guard.php on line 242
+
+Warning: file_put_contents(/var/www/html/test/eg/ff/uu/hh/vvvv.html): failed to open stream: No such file or directory in /var/www/html/service/Guard.php on line 72
+
+Warning: file_put_contents(/var/www/html/test/eg/ff/uu/hh/vvvv.html): failed to open stream: No such file or directory in /var/www/html/service/Guard.php on line 242
+
+Warning: file_put_contents(/var/www/html/test/eg/ff/uu/hh/vvvv.html): failed to open stream: No such file or directory in /var/www/html/service/Guard.php on line 242
+
+Warning: file_put_contents(/var/www/html/test/eg/ff/uu/hh/vvvv.html): failed to open stream: No such file or directory in /var/www/html/service/Guard.php on line 72
+
+Warning: file_put_contents(/var/www/html/test/eg/ff/uu/hh/vvvv.html): failed to open stream: No such file or directory in /var/www/html/service/Guard.php on line 242
+
+Warning: file_put_contents(/var/www/html/test/eg/ff/uu/hh/vvvv.html): failed to open stream: No such file or directory in /var/www/html/service/Guard.php on line 72
+[ 2020-01-23T14:22:47+08:00 ] 发送消息通知: 文件 /var/www/html/test/eg/ff/uu/hh/vvvv.html 可能被恶意篡改, QinGuard防篡改系统无法自动还原, 请登录服务器排查原因, /var/www/html/test/eg/ff/uu/hh/vvvv.html, 302
+[ 2020-01-23T14:22:47+08:00 ] 发送消息通知:  Warning: 文件 /var/www/html/test/eg/ff/uu/hh/vvvv.html 无法创建, QinGuard防篡改系统无法自动完成操作, 请登录服务器排查原因, /var/www/html/test/eg/ff/uu/hh/vvvv.html, 302
+[ 2020-01-23T14:23:17+08:00 ]Guard server started
+[ 2020-01-23T14:23:17+08:00 ] add dir:/var/www/html/test
+[ 2020-01-23T14:23:17+08:00 ] add dir:/var/www/html/test/eg
+[ 2020-01-23T14:23:17+08:00 ] add dir:/var/www/html/test/eg/ff
+[ 2020-01-23T14:23:17+08:00 ] add dir:/var/www/html/test/eg/ff/eg
+[ 2020-01-23T14:23:17+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh
+[ 2020-01-23T14:23:17+08:00 ] add dir:/var/www/html/test/eg/ff/eg/hh/ga
+[ 2020-01-23T14:23:17+08:00 ] add dir:/var/www/html/test/eg/ff/uu
+[ 2020-01-23T14:23:17+08:00 ] add dir:/var/www/html/test/llf
+[ 2020-01-23T14:23:17+08:00 ]: worker started
+[2020-01-23 06:23:18 *3552.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[ 2020-01-23T14:23:21+08:00 ] add dir:/var/www/html/test/eg/ff/uu/hh
+[ 2020-01-23T14:23:21+08:00 ] Warning: The file `/eg/ff/uu/hh/vvvv.html` was created 
+[ 2020-01-23T14:23:21+08:00 ] 发送消息通知: 新增文件 /var/www/html/test/eg/ff/uu/hh/vvvv.html 成功, QinGuard防篡改系统已经登记指定的文件, /eg/ff/uu/hh/vvvv.html, 600
+[ 2020-01-23T14:23:29+08:00 ] Warning: The file `/var/www/html/test/eg/ff/uu/hh/vvvv.html` was resumed in 1 time, mask 2 
+[ 2020-01-23T14:23:29+08:00 ] 发送消息通知: 文件 /var/www/html/test/eg/ff/uu/hh/vvvv.html 被修改, QinGuard防篡改系统已经自动还原, /var/www/html/test/eg/ff/uu/hh/vvvv.html, 401
+[ 2020-01-23T14:23:29+08:00 ] Warning: The file `/var/www/html/test/eg/ff/uu/hh/vvvv.html` was resumed in 1 time, mask 512 
+[ 2020-01-23T14:23:29+08:00 ] 发送消息通知: 文件 /var/www/html/test/eg/ff/uu/hh/vvvv.html 被删除, QinGuard防篡改系统已经自动生成, /var/www/html/test/eg/ff/uu/hh/vvvv.html, 405
+delete dir: /eg/ff/uu/hh
+
+Warning: file_put_contents(/var/www/html/test/eg/ff/uu/hh/vvvv.html): failed to open stream: No such file or directory in /var/www/html/service/Guard.php on line 72
+忽略这个目录: /eg/ff/eg/hh/vvvv.html 
+[ 2020-01-23T14:23:41+08:00 ] Notice: Make all files at page 1!
+忽略这个目录: /eg/ff/eg/hh/vvvv.html 
+[ 2020-01-23T14:23:41+08:00 ] Notice: Make all files at page 2!
+忽略这个目录: /eg/ff/eg/hh/asdf.html 
+[ 2020-01-23T14:23:41+08:00 ] Notice: Make all files at page 3!
+忽略这个目录: /eg/ff/eg/hh/asdf.html 
+忽略这个目录: /eg/ff/eg/hh/kk.html 
+[ 2020-01-23T14:23:41+08:00 ] Notice: Make all files at page 4!
+忽略这个目录: /eg/ff/eg/hh/kk.html 
+忽略这个目录: /eg/ff/eg/hh/ga/kk.html 
+[ 2020-01-23T14:23:41+08:00 ] Notice: Make all files at page 5!
+忽略这个目录: /eg/ff/eg/hh/ga/kk.html 
+忽略这个目录: /eg/ff/eg/hh/ga/ee.html 
+[ 2020-01-23T14:23:41+08:00 ] Notice: Make all files at page 6!
+忽略这个目录: /eg/ff/eg/hh/ga/ee.html 
+忽略这个目录: /eg/ff/eg/hh/ga/ff.html 
+[ 2020-01-23T14:23:41+08:00 ] Notice: Make all files at page 7!
+忽略这个目录: /eg/ff/eg/hh/ga/ff.html 
+[ 2020-01-23T14:23:41+08:00 ] Notice: Make all files at page 8!
+[ 2020-01-23T14:23:41+08:00 ] Notice: Make all files was done!
+
+Warning: file_put_contents(/var/www/html/test/eg/ff/uu/hh/vvvv.html): failed to open stream: No such file or directory in /var/www/html/service/Guard.php on line 72
+
+Warning: file_put_contents(/var/www/html/test/eg/ff/uu/hh/vvvv.html): failed to open stream: No such file or directory in /var/www/html/service/Guard.php on line 72
+
+Warning: file_put_contents(/var/www/html/test/eg/ff/uu/hh/vvvv.html): failed to open stream: No such file or directory in /var/www/html/service/Guard.php on line 72
+
+Warning: file_put_contents(/var/www/html/test/eg/ff/uu/hh/vvvv.html): failed to open stream: No such file or directory in /var/www/html/service/Guard.php on line 72
+
+Warning: file_put_contents(/var/www/html/test/eg/ff/uu/hh/vvvv.html): failed to open stream: No such file or directory in /var/www/html/service/Guard.php on line 72
+
+Warning: file_put_contents(/var/www/html/test/eg/ff/uu/hh/vvvv.html): failed to open stream: No such file or directory in /var/www/html/service/Guard.php on line 72
+
+Warning: file_put_contents(/var/www/html/test/eg/ff/uu/hh/vvvv.html): failed to open stream: No such file or directory in /var/www/html/service/Guard.php on line 72
+
+Warning: file_put_contents(/var/www/html/test/eg/ff/uu/hh/vvvv.html): failed to open stream: No such file or directory in /var/www/html/service/Guard.php on line 72
+
+Warning: file_put_contents(/var/www/html/test/eg/ff/uu/hh/vvvv.html): failed to open stream: No such file or directory in /var/www/html/service/Guard.php on line 72
+[ 2020-01-23T14:25:22+08:00 ] 发送消息通知:  Warning: 文件 /var/www/html/test/eg/ff/uu/hh/vvvv.html 无法创建, QinGuard防篡改系统无法自动完成操作, 请登录服务器排查原因, /var/www/html/test/eg/ff/uu/hh/vvvv.html, 302

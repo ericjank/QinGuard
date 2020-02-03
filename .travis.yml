@@ -1,0 +1,11 @@
+language: php
+
+php:
+    - 7.0
+sudo: required
+
+before_script:
+  - composer install
+  
+script:
+    - exit 0
